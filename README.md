@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-Using bulk RNA sequencing, we can pinpoint Differentially Expressed genes (DE genes) across replicates under varying conditions and proceed to their functional characterization. The data employed in this analysis is sourced from Recount3, a renowned repository for RNA-seq experiments. Comprehensive, unfiltered datasets from three human tissues - namely brain, liver, and lung - were obtained for our study.
+Using bulk RNA sequencing, we can pinpoint Differentially Expressed genes (DE genes) across replicates under varying conditions and proceed to their functional characterization. The data employed in this analysis is sourced from Recount3, a renowned repository for RNA-seq experiments. Comprehensive, unfiltered datasets from three human tissues - namely brain, pancreas, and kidney- were obtained for our study.
 
 # QUALITY CONTROL
 
